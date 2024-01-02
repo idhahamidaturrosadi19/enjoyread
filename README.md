@@ -100,10 +100,10 @@ erDiagram
 ```mermaid
 flowchart BT 
   subgraph cloud
-    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    B[Web Server: Apache] <--> C[Aplikasi Web Backend: Node.js] 
     C <--> D[Database: MySQL] 
   end
-  A[Aplikasi web : JavaScript] <--> B
+  A[Front-end : HTML] <--> B
 ```
 
 
