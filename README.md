@@ -114,86 +114,21 @@ Dalam pembuatan aplikasi E-library ini, saya menggunakan sejumlah teknologi, lib
 ## Code HTML
 
 ## Hal Utama
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-Library - Halaman Awal</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Untitled-1.html",
+            "file": "d:\\web\\Untitled-1.html"
         }
-
-        header {
-            background-color: #007BFF;
-            color: white;
-            text-align: center;
-            padding: 1em;
-        }
-
-        main {
-            padding: 2em;
-        }
-
-        section {
-            margin-bottom: 20px;
-        }
-
-        footer {
-            background-color: #007BFF;
-            color: white;
-            text-align: center;
-            padding: 1em;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-
-        .cta-button {
-            display: inline-block;
-            background-color: #007BFF;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            font-size: 16px;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-
-    <header>
-        <h1>Selamat Datang di E-Library</h1>
-        <p>Temukan dan baca berbagai buku digital kami.</p>
-        <a href="#search" class="cta-button">Cari Buku</a>
-    </header>
-
-    <main>
-        <section>
-            <h2>Buku Terpopuler</h2>
-            <p>Temukan buku-buku terpopuler dalam koleksi kami.</p>
-            <!-- Daftar buku terpopuler dapat ditambahkan di sini -->
-        </section>
-
-        <section>
-            <h2>Buku Baru</h2>
-            <p>Temukan buku-buku terbaru yang telah ditambahkan.</p>
-            <!-- Daftar buku baru dapat ditambahkan di sini -->
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 E-Library. Hak Cipta Dilindungi.</p>
-    </footer>
-
-</body>
-</html>
-
+    ]
+}
 
 
 ## Design : User Experience (UX) Design
