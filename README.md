@@ -1,4 +1,4 @@
-## Membuat Aplikasi Doa Doa Dengan Canva, HTML,CSS, Javascript, MySQL
+## Membuat Aplikasi E-Library Dengan Canva, HTML,CSS, Javascript, MySQL
 
 Idha Hamidaturrosadi 24 Oktober 2023
 
