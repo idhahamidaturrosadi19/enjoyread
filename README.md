@@ -124,6 +124,8 @@ Dalam pembuatan aplikasi E-library ini, saya menggunakan sejumlah teknologi, lib
 
 ## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
 
+Bapa mohon maaf video nya nyusul🙏
+
 https://drive.google.com/drive/folders/1SBWGmLf1omktCW-u57bAsQkAk-YEwNUM?usp=sharing
 
 ## bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
