@@ -20,7 +20,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding me
 
 •  Target user:
 
-o  Usia 12+
+o  Usia 9+
 
 o  Seorang yang senang mencari inspirasi dan informasi baru
 
